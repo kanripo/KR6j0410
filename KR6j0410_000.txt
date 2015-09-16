@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說文殊師利法寶藏陀羅尼經
+#+DATE: 2015-08-30 20:31:55.404707
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6j0410
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+¶
